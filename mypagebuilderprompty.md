@@ -1,5 +1,3 @@
-# myprompts
-
 You are a senior full-stack engineer and product architect.
 
 I am building a multi-tenant website builder. I already have:
